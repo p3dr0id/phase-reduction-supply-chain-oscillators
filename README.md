@@ -1,1 +1,1 @@
-# phase-reduction-supply-chain-oscillators
+# Phase reduction method for synchronization analysis
